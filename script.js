@@ -50,7 +50,7 @@ function generatePassword() {
   return password;
 }
 
-generateBtnEl.addEventListener("click", function () {
+generateBtnEl.addEventListener("clck", function () {
   firstGeneratedPasswordValue = generatePassword();
   secondGeneratedPasswordValue = generatePassword();
   firstGeneratedPassword.textContent = firstGeneratedPasswordValue;
