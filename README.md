@@ -12,10 +12,11 @@ This extension generates random passwords from different lengths ranging from 8 
 
 ## Installation
 
-1. Download the extension from Github
-2. Open Chrome and navigate to the Extensions settings (chrome://extensions/)
-3. Enable Developer Mode in the top right corner
-4. Click on the "Load unpacked" button in the top left corner
-5. Navigate to the downloaded folder and select it
+1. Download the folder from Github
+2. Unzip the downloaded package if needed
+3. Open Chrome and navigate to the Extensions settings (chrome://extensions/)
+4. Enable Developer Mode in the top right corner
+5. Click on the "Load unpacked" button in the top left corner
+6. Navigate to the extension's folder and select it
 
 The Password Generator extension is now ready to be used.
