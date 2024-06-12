@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <main>
+            <h1 id="title">Generate a <span id="green-text-title">Random Password</span></h1>
+            <div class="preferences">
+                <div class="uppercase__switch">
+                    <label class="switch">
+                        <input type="checkbox" checked id="uppercases__check">
+                        <span class="slider round"></span>
+                    </label>
+                    <h4>Uppercases</h4>
+                </div>
+                <div class="numbers__switch">
+                    <label class="switch">
+                        <input type="checkbox" checked id="numbers__check">
+                        <span class="slider round"></span>
+                    </label>
+                    <h4>Numbers</h4>
+                </div>
+                <div class="symbols__switch">
+                    <label class="switch">
+                        <input type="checkbox" checked id="symbols__check">
+                        <span class="slider round"></span>
+                    </label>
+                    <h4>Symbols</h4>
+                </div>
+            </div>
+            <p id="pass-len-text">Password Length: </p>
+            <input type="range" name="passwordLength" id="pass-len"min="8" max="24" value="16">
+            <button id="generate-btn">Generate Passwords</button>
+            <div class="generated-passwords">
+                <div id="first-password">
+                    <p id="first-generated-password"></p>
+                </div>
+                <div id="second-password">
+                    <p id="second-generated-password"></p>
+                </div>
+            </div>
+        </main>
+        <script src="index.js"></script>
+    </body>
+</html>
