@@ -160,7 +160,7 @@ input:checked + .slider:before {
     background: #273549;
     color: #55F991;
     width: 250px;
-    height: 40px;
+    height: 50px;
     border-radius: 10px;
     margin: 0px 10px
 }
@@ -171,7 +171,20 @@ input:checked + .slider:before {
 
 #first-generated-password, #second-generated-password {
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: auto;
+    margin-top: -5px;
     font-size: 16px;
+    padding: 20px;
 }
+
+#copied__div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 2px 2px;
+    background-color: #455a72;
+    width: 300px;
+    border-radius: 15px;
+    opacity: 0;
+}
+
