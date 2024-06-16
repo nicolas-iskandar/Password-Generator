@@ -1,6 +1,6 @@
-## Password Generator Extension
+## Password Generator Browser Extension
 
-This extension generates random passwords from different lengths ranging from 8 to 24 characters
+This extension generates random passwords of different lengths ranging from 8 to 24 characters
 
 <img src="assets/image.png" alt="drawing" width="500" style="border-radius: 10px"/>
 
@@ -12,7 +12,7 @@ This extension generates random passwords from different lengths ranging from 8 
 
 ## Installation
 
-1. Download the folder from Github
+1. Download the folder from GitHub
 2. Unzip the downloaded package if needed
 3. Open Chrome and navigate to the Extensions settings (chrome://extensions/)
 4. Enable Developer Mode in the top right corner
