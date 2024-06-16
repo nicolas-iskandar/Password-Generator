@@ -10,7 +10,7 @@ This extension generates random passwords of different lengths ranging from 8 to
 - Easy-to-use interface
 - Click on the generated password to copy it to your clipboard
 
-## Installation
+## Chrome Installation
 
 1. Download the folder from GitHub
 2. Unzip the downloaded package if needed
@@ -18,5 +18,13 @@ This extension generates random passwords of different lengths ranging from 8 to
 4. Enable Developer Mode in the top right corner
 5. Click on the "Load unpacked" button in the top left corner
 6. Navigate to the extension's path and select it
+
+## Firefox Installation
+
+1. Download the folder from GitHub
+2. Unzip the downloaded package if needed
+3. Open Firefox and navigate to about:debugging
+4. Click the This Firefox option, click the Load Temporary Add-on button
+5. Select any file in your extension's directory
 
 The Password Generator extension is now ready to be used.
