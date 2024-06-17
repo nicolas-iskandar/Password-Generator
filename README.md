@@ -25,6 +25,6 @@ This extension generates random passwords of different lengths ranging from 8 to
 2. Unzip the downloaded package if needed
 3. Open Firefox and navigate to about:debugging
 4. Click the This Firefox option, click the Load Temporary Add-on button
-5. Select any file in your extension's directory
+5. Select any file in the extension's directory
 
 The Password Generator extension is now ready to be used.
